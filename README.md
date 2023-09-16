@@ -1,2 +1,10 @@
-# AplicacionesMovilesNativas
+# Aplicaciones Móviles Nativas
 Repositorio dedicado a la asignatura 'Programación de Aplicaciones Móviles Nativas'
+
+## Lista de Prácticas
+<ul>
+  <li><a href="./Práctica_1">Práctica 1</a></li>
+  <li>Práctica 2</li>
+  <li>Práctica 3</li>
+  <li>Práctica 4</li>
+</ul>
