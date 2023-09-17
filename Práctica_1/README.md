@@ -13,3 +13,4 @@ propuesta WCAG.</li>
 </ul>
 
 ## Entrega
+El entregable se encuentra <a href="./Práctica%201.pdf">aqui</a>
