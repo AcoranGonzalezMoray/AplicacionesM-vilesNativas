@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space Acoran</string>
+    <string name="cuadro1">Aurora en el Horizonte</string>
+    <string name="cuadro1_info">Isabella Montero (2021)</string>
+    <string name="cuadro2">El Rostro del Tiempo</string>
+    <string name="cuadro2_info"> Alejandro Vargas (2022)</string>
+    <string name="cuadro3">La Canción del Silencio</string>
+    <string name="cuadro3_info">Sofia Herrera (2020)</string>
+    <string name="cuadro4">La Metrópolis Onírica</string>
+    <string name="cuadro4_info">Rafael Sánchez (2023)</string>
+</resources>
