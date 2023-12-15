@@ -20,3 +20,4 @@ Repositorio dedicado a la asignatura 'Programación de Aplicaciones Móviles Nat
   <li><a href="./Coevaluacion">Coevaluación</li>
 </ul>
  
+### Codigo del proyecto final: https://github.com/AcoranGonzalezMoray/QRStockMate
